@@ -125,11 +125,6 @@ Los tests usan tareas (tasks), interacciones (interactions), preguntas (question
 + questions
 
     Objectos usados para consultar acerca del estado de la aplicación
-
-+ Facade
-
-    Clases que permiten la integración con el Backend en nuestro caso iSeries
-
  
 
 ### Herramienta de automatización utilizado
