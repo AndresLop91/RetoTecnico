@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"traductor de google","traducir de español a ingles escenario exitoso","SUCCESS","2021-07-14T21:02:09.953-05:00[America/Bogota]","0.0","12.91"
+"traductor de google","traducir de español al frances escenario exitoso","SUCCESS","2021-07-14T21:02:22.871-05:00[America/Bogota]","0.0","10.76"
+"traductor de google","traducir de español al español escenario alterno","SUCCESS","2021-07-14T21:02:33.632-05:00[America/Bogota]","0.0","9.9"
+"traductor de google","traducir de ingles al ingles escenario alterno","SUCCESS","2021-07-14T21:02:43.536-05:00[America/Bogota]","0.0","9.01"
